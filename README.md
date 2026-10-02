@@ -20,3 +20,6 @@
 - Библиотеки:
   - `tkinter` — входит в стандартную поставку Python (отдельно устанавливать не нужно)
   - `Pillow` — требуется установить
+ 
+<img width="407" height="335" alt="image" src="https://github.com/user-attachments/assets/eaccd838-cd0f-480a-a872-e6bf27e49eb0" />
+    
